@@ -17,7 +17,7 @@ Python version 3.7.16.
 Create suitable conda environment:
 
 ```
-conda env create -f environment.yml
+conda env create -f environment.yaml
 ```
 
 ## Fashion MNIST
@@ -70,4 +70,4 @@ python main.py --model_type GADS --dir_path ./result/nb15 --dataset_name nb15 --
 
 ## Citation
 
-Wei R., He Z., Pavlovski M., Zhou F.,"GAD: A Generalized Framework for Anomaly Detection at Different Risk Levels"., Proceedings of the 33rd ACM International Conference on Information and Knowledge Management(CIKM) , 2024
+Wei R., He Z., Pavlovski M., Zhou F. "GAD: A Generalized Framework for Anomaly Detection at Different Risk Levels", *Proceedings of the 33rd ACM International Conference on Information and Knowledge Management(CIKM)*, 2024.
